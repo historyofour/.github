@@ -1,12 +1,12 @@
-## Hi there 👋
+#这是简介仓库 .github
+## 这是什么？
+> 这个是我自己搭建的一个方便分享互联网资源的……一个小的平台吧，基于开源平台其实是比较经济的一种方式
+这也会收集一些散装的内容，比如说大家常说的“失传游戏”，欢迎大家一点一点收集
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 上传条件
+> （如果游戏或其他资源有什么特殊要求）列出所必须的条件和相关依赖  
+* 正常情况下，用户可以自由上传（我已经打开了这个组织的成员加入权限），但必须在尊重原作者版权的前提下上传，同时保证原文件的完整性，不得篡改原文件（特殊情况如汉化、重编译等除外）;必须注明出处（对于目前网络上有很多的爱好者用自己的力量参与相关的工作，如果你是从他们那里获得的文件，请将他们的名字标注出来，同时尽可能获取原文件的出处）
+* 所有的用户都必须对自己上传的文件负责，包括但不限于:
+  1.上传文件所包含的所有内容不得违反各个国家的法律法规，不得包含任何不良内容（比如色情、赌博等犯罪内容的），不得在文件中插入恶意程序;
+  2.不允许任何侵权的事情（尽管很多文件已经无法找到原作者，但这并不意味着可以随便做任何侵犯版权的事情）;请尊重其他爱好者的成果;这个项目不会收费，所以我也不希望大家倒卖
+* 这个组织的成员加入权限已经打开，你可以随意加入，同时随意创建仓库来上传有关的资源。请你上传后务必在上传内容所对应的仓库里的readme.md中扫描这个内容是什么。建议仓库名称用通用清晰的语言。所有人通过网页上传都需要web签名
